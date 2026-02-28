@@ -1,0 +1,2 @@
+src/components/AdvisoryPanel.tsx(3,15): error TS2305: Module '"../services/api"' has no exported member 'AdvisoryData'.
+src/components/AdvisoryPanel.tsx(3,29): error TS2305: Module '"../services/api"' has no exported member 'ChatTurn'.
